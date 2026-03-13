@@ -1,1 +1,14 @@
-
+[
+  {
+    "name": "Arun",
+    "skills": "mechanical design, quality control, CAD modeling"
+  },
+  {
+    "name": "Priya",
+    "skills": "embedded systems, CAN bus programming, IoT connectivity"
+  },
+  {
+    "name": "Rahul",
+    "skills": "battery recycling, sustainability practices, supply chain"
+  }
+]
